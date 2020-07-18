@@ -1,5 +1,5 @@
 module.exports = {
-    base: "/docs/",
+    base: '/',
     themeConfig: {
         logo: '/assets/img/logo.png',
         nav: [

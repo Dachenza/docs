@@ -1,8 +1,9 @@
 module.exports = {
-    "bases": "/docs/",
+    base: "/docs/",
     themeConfig: {
         logo: '/assets/img/logo.png',
         nav: [
+            {'Home':'/'},
             {
                 text: 'Languages',
                 ariaLabel: 'Language Menu',

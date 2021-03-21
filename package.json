@@ -666,7 +666,7 @@
     "sshpk": "^1.16.1",
     "std-env": "^2.2.1",
     "stack-utils": "^1.0.2",
-    "ssri": "^6.0.1",
+    "ssri": "^8.0.1",
     "stream-each": "^1.2.3",
     "static-extend": "^0.1.2",
     "stream-shift": "^1.0.1",

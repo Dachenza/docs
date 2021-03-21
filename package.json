@@ -362,7 +362,7 @@
     "is-installed-globally": "^0.3.2",
     "is-number": "^3.0.0",
     "is-stream": "^1.1.0",
-    "is-svg": "^3.0.0",
+    "is-svg": "^4.2.2",
     "is-plain-object": "^2.0.4",
     "is-resolvable": "^1.1.0",
     "is-regex": "^1.1.0",

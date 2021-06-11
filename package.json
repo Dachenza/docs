@@ -461,7 +461,7 @@
     "node-releases": "^1.1.59",
     "normalize-path": "^3.0.0",
     "node-libs-browser": "^2.2.1",
-    "normalize-url": "^2.0.1",
+    "normalize-url": "^4.5.1",
     "node-forge": "^0.9.0",
     "nth-check": "^1.0.2",
     "normalize-range": "^0.1.2",

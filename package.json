@@ -463,7 +463,7 @@
     "node-libs-browser": "^2.2.1",
     "normalize-url": "^2.0.1",
     "node-forge": "^0.9.0",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "normalize-range": "^0.1.2",
     "oauth-sign": "^0.9.0",
     "num2fraction": "^1.2.2",

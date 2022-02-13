@@ -252,7 +252,7 @@
     "finalhandler": "^1.1.2",
     "find-up": "^3.0.0",
     "forever-agent": "^0.6.1",
-    "follow-redirects": "^1.12.1",
+    "follow-redirects": "^1.14.8",
     "foreach": "^2.0.5",
     "for-in": "^1.0.2",
     "form-data": "^2.3.3",

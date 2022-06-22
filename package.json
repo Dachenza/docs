@@ -277,7 +277,7 @@
     "global-dirs": "^2.0.1",
     "good-listener": "^1.2.2",
     "globby": "^7.1.1",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "graceful-fs": "^4.2.4",
     "gray-matter": "^4.0.2",
     "handle-thing": "^2.0.1",

@@ -693,7 +693,7 @@
     "terser-webpack-plugin": "^1.4.4",
     "text-table": "^0.2.0",
     "thunky": "^1.1.0",
-    "terser": "^4.8.0",
+    "terser": "^4.8.1",
     "through": "^2.3.8",
     "timsort": "^0.3.0",
     "through2": "^2.0.5",

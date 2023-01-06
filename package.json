@@ -386,7 +386,7 @@
     "json-schema": "^0.2.3",
     "json-stringify-safe": "^5.0.1",
     "jsonfile": "^4.0.0",
-    "json5": "^1.0.1",
+    "json5": "^1.0.2",
     "jsprim": "^1.4.1",
     "json3": "^3.3.3",
     "killable": "^1.0.1",
